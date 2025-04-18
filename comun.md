@@ -3,4 +3,5 @@
 Es mejor la playa que la montaña
 
 Es mejor la tortilla con cebolla
-Es mejor la montaña.
+
+Es mejor ir andando
