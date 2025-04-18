@@ -4,6 +4,7 @@ Este es el archivo md de fulanito.
 
 Segunda línea en el archivo md de fulanito.
 
-Voy a añadir nueva inormación a este archivo local para provocar el Stash.
+Se va a probar a hacer un desarrollo a parte.
+Esto implica que se ha creado una nueva rama llamada desarrollo,
 
-Estamos probando.
+Añado otra línea.
