@@ -8,4 +8,4 @@ Es mejor ir andando
 
 Esta es una prueba de modificación para probar el Stash.
 
-Se a añadido un stash para poder probar lo de guardar sin necesidad de comitear.
+Se a añadido un stash para poder probar lo de guardar sin necesidad de comitear. 
